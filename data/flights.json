@@ -1,0 +1,18 @@
+[
+  { "flightNo": "SQ318", "airline": "Singapore Airlines", "type": "departure", "city": "Singapore", "scheduledTime": "09:40", "status": "On Time", "gate": "A3", "checkInRow": "2" },
+  { "flightNo": "TR451", "airline": "Scoot", "type": "departure", "city": "Bangkok", "scheduledTime": "10:15", "status": "Boarding", "gate": "A5", "checkInRow": "3" },
+  { "flightNo": "AK702", "airline": "AirAsia", "type": "departure", "city": "Kuala Lumpur", "scheduledTime": "10:50", "status": "Delayed 11:35", "gate": "B1", "checkInRow": "4" },
+  { "flightNo": "TG414", "airline": "Thai Airways", "type": "departure", "city": "Bangkok", "scheduledTime": "11:20", "status": "On Time", "gate": "B2", "checkInRow": "1" },
+  { "flightNo": "GA843", "airline": "Garuda Indonesia", "type": "departure", "city": "Jakarta", "scheduledTime": "12:05", "status": "On Time", "gate": "A2", "checkInRow": "5" },
+  { "flightNo": "VN650", "airline": "Vietnam Airlines", "type": "departure", "city": "Ho Chi Minh City", "scheduledTime": "13:30", "status": "On Time", "gate": "B4", "checkInRow": "3" },
+  { "flightNo": "PR512", "airline": "Philippine Airlines", "type": "departure", "city": "Manila", "scheduledTime": "14:10", "status": "Cancelled", "gate": "-", "checkInRow": "4" },
+  { "flightNo": "CX716", "airline": "Cathay Pacific", "type": "departure", "city": "Hong Kong", "scheduledTime": "15:45", "status": "On Time", "gate": "A1", "checkInRow": "2" },
+  { "flightNo": "SQ319", "airline": "Singapore Airlines", "type": "arrival", "city": "Singapore", "scheduledTime": "09:05", "status": "Landed", "gate": "A4", "belt": "2" },
+  { "flightNo": "FD292", "airline": "AirAsia", "type": "arrival", "city": "Bangkok", "scheduledTime": "09:55", "status": "On Time", "gate": "B3", "belt": "1" },
+  { "flightNo": "MH684", "airline": "Malaysia Airlines", "type": "arrival", "city": "Kuala Lumpur", "scheduledTime": "10:40", "status": "Delayed 11:10", "gate": "A6", "belt": "3" },
+  { "flightNo": "QZ267", "airline": "Indonesia AirAsia", "type": "arrival", "city": "Denpasar (Bali)", "scheduledTime": "11:50", "status": "On Time", "gate": "B5", "belt": "2" },
+  { "flightNo": "VJ902", "airline": "VietJet Air", "type": "arrival", "city": "Hanoi", "scheduledTime": "12:35", "status": "On Time", "gate": "A2", "belt": "1" },
+  { "flightNo": "CI753", "airline": "China Airlines", "type": "arrival", "city": "Taipei", "scheduledTime": "13:15", "status": "On Time", "gate": "B1", "belt": "3" },
+  { "flightNo": "TR452", "airline": "Scoot", "type": "arrival", "city": "Phuket", "scheduledTime": "14:25", "status": "On Time", "gate": "A5", "belt": "2" },
+  { "flightNo": "SQ320", "airline": "Singapore Airlines", "type": "departure", "city": "Singapore", "scheduledTime": "17:55", "status": "On Time", "gate": "A3", "checkInRow": "2" }
+]
